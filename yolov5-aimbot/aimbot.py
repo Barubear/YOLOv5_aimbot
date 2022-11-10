@@ -10,10 +10,10 @@ import time
 
 
 
-def main(opt):
+def main():
     mouse = c_mouse()
     flag = True
-    # Model
+    
 
 
 
