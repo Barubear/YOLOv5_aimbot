@@ -1,0 +1,6 @@
+train: E:/testdata/images/train/
+val: E:/testdata/images/val/
+
+nc: 1
+
+names: ['enemy']
